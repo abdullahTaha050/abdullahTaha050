@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aaksakal050@gmail.com**
 
-- ⚡ Fun fact **I think I am car lover**
+- ⚡ Fun fact **in love with cars!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
