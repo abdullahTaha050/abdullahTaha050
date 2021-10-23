@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Taha AKSAKAL</h1>
-<h3 align="center">I'm a 4th grade Computer Engineering student. Also I'm Jr. Web Developer.</h3>
+<h3 align="center">I'm a 4th grade Computer Engineering student. Also I'm Front-End Developer.</h3>
 
 - 🌱 I’m currently learning **Mobile Development with Flutter**
 
