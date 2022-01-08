@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Taha AKSAKAL</h1>
 <h3 align="center">I'm a 4th grade Computer Engineering student. Also I'm Front-End Developer.</h3>
 
-- 🌱 I’m currently learning **Back - end development with .Net Core**
+- 🌱 I’m currently learning **FullStack development with .Net Core & Vue.js**
 
 - 💬 Ask me about **React, Front - End Development**
 
