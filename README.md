@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FullStack development with .Net Core & Vue.js**
 
-- 💬 Ask me about **React, Front - End Development**
+- 💬 Ask me about **Front - End Development**
 
 - 📫 How to reach me **aaksakal050@gmail.com**
 
