@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdullah Taha AKSAKAL</h1>
 <h3 align="center">I'm a Computer Engineer. Also I'm Fullstack Developer.</h3>
 
-- 🌱 I’m currently learning **FullStack development with .Net Core & Next.js**
+- 🌱 I’m currently working **FullStack development with .Net Core & Next.js**
 
-- 💬 Ask me about **Front - End Development**
+- 💬 Ask me about **Fullstack Development**
 
 - 📫 How to reach me **aaksakal050@gmail.com**
 
-- ⚡ Fun fact **in love with cars!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
