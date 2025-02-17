@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Taha AKSAKAL</h1>
 <h3 align="center">I'm a Computer Engineer. Also I'm Fullstack Developer.</h3>
 
-- 🌱 I’m currently working **FullStack development with .Net Core & Next.js**
+- 🌱 I’m currently working **Backend development with Java Spring Boot**
 
 - 💬 Ask me about **Fullstack Development**
 
